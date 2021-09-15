@@ -1,6 +1,6 @@
 # Lively Cities
  Adds static NPCs in Daggerfall's city streets.
- Currently covers Priests/Knights/Minstrels/Acrobats/Jugglers and some tavern goers. 
+ Currently covers Priests/Knights/Minstrels/Acrobats/Jugglers and High Rock's taverns. 
  
  More will be added overtime.
 

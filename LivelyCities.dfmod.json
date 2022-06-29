@@ -119,6 +119,7 @@
         "Assets/Game/Mods/LivelyCities/WorldData/FARMAA04.RMB-793-building0.json",
         "Assets/Game/Mods/LivelyCities/WorldData/FARMAA06.RMB-796-building0.json",
         "Assets/Game/Mods/LivelyCities/WorldData/RESIAL07.RMB-884-building5.json",
-        "Assets/Game/Mods/LivelyCities/WorldData/ALCHAL00.RMB-1287-building10.json"
+        "Assets/Game/Mods/LivelyCities/WorldData/ALCHAL00.RMB-1287-building10.json",
+        "Assets/Game/Mods/LivelyCities/Scripts/LivelyCitiesMod.cs"
     ]
 }

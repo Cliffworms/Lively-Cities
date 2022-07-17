@@ -1,8 +1,8 @@
 {
     "ModTitle": "Lively Cities",
-    "ModVersion": "1.1",
+    "ModVersion": "1.2",
     "ModAuthor": "Cliffworms",
-    "DFUnity_Version": "0.13.4",
+    "DFUnity_Version": "0.14.0",
     "ModDescription": "Populates the streets of Daggerfall's cities and settlements with static NPCs.",
     "GUID": "8445fd1c-7455-4c18-8850-70e1416c5c4f",
     "Files": [
@@ -120,6 +120,9 @@
         "Assets/Game/Mods/LivelyCities/WorldData/FARMAA06.RMB-796-building0.json",
         "Assets/Game/Mods/LivelyCities/WorldData/RESIAL07.RMB-884-building5.json",
         "Assets/Game/Mods/LivelyCities/WorldData/ALCHAL00.RMB-1287-building10.json",
-        "Assets/Game/Mods/LivelyCities/Scripts/LivelyCitiesMod.cs"
+        "Assets/Game/Mods/LivelyCities/Scripts/LivelyCitiesMod.cs",
+        "Assets/Game/Mods/LivelyCities/WorldData/TVRNAL00.RMB-560-building3.json",
+        "Assets/Game/Mods/LivelyCities/WorldData/TVRNAL00.RMB-560-building5.json",
+        "Assets/Game/Mods/LivelyCities/WorldData/TVRNAL00.RMB-560-building11.json"
     ]
 }

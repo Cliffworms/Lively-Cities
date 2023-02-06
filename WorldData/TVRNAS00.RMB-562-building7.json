@@ -30,34 +30,34 @@
             ],
             "BlockFlatObjectRecords": [
                 {
-                    "Position": 0,
+                    "Position": 5639,
                     "XPos": 353,
                     "YPos": -5,
                     "ZPos": 1076,
                     "TextureArchive": 184,
                     "TextureRecord": 8,
                     "FactionID": 512,
-                    "Flags": 0
+                    "Flags": 37
                 },
                 {
-                    "Position": 0,
+                    "Position": 5640,
                     "XPos": 310,
                     "YPos": -6,
                     "ZPos": 1081,
                     "TextureArchive": 182,
                     "TextureRecord": 23,
                     "FactionID": 584,
-                    "Flags": 0
+                    "Flags": 5
                 },
                 {
-                    "Position": 0,
+                    "Position": 5641,
                     "XPos": 358,
                     "YPos": -6,
                     "ZPos": 1062,
                     "TextureArchive": 205,
                     "TextureRecord": 11,
-                    "FactionID": 0,
-                    "Flags": 0
+                    "FactionID": 512,
+                    "Flags": 5
                 }
             ],
             "BlockSection3Records": [],
@@ -780,7 +780,7 @@
             ],
             "BlockPeopleRecords": [
                 {
-                    "Position": 0,
+                    "Position": 5638,
                     "XPos": 160,
                     "YPos": 0,
                     "ZPos": -56,

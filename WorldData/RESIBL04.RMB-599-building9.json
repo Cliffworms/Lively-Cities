@@ -30,14 +30,14 @@
             ],
             "BlockFlatObjectRecords": [
                 {
-                    "Position": 0,
+                    "Position": 6678,
                     "XPos": -299,
                     "YPos": -2,
                     "ZPos": 581,
                     "TextureArchive": 182,
                     "TextureRecord": 12,
                     "FactionID": 584,
-                    "Flags": 0
+                    "Flags": 6
                 }
             ],
             "BlockSection3Records": [],
@@ -1601,7 +1601,7 @@
             ],
             "BlockPeopleRecords": [
                 {
-                    "Position": 0,
+                    "Position": 6672,
                     "XPos": 24,
                     "YPos": 0,
                     "ZPos": -392,
@@ -1611,7 +1611,7 @@
                     "Flags": 1
                 },
                 {
-                    "Position": 1,
+                    "Position": 6673,
                     "XPos": -56,
                     "YPos": 0,
                     "ZPos": -32,
@@ -1621,7 +1621,7 @@
                     "Flags": 1
                 },
                 {
-                    "Position": 2,
+                    "Position": 6674,
                     "XPos": 24,
                     "YPos": -1,
                     "ZPos": 200,
@@ -1631,7 +1631,7 @@
                     "Flags": 33
                 },
                 {
-                    "Position": 3,
+                    "Position": 6675,
                     "XPos": -416,
                     "YPos": 0,
                     "ZPos": 336,
@@ -1641,7 +1641,7 @@
                     "Flags": 1
                 },
                 {
-                    "Position": 4,
+                    "Position": 6676,
                     "XPos": 136,
                     "YPos": -128,
                     "ZPos": -352,
@@ -1651,7 +1651,7 @@
                     "Flags": 1
                 },
                 {
-                    "Position": 5,
+                    "Position": 6677,
                     "XPos": -40,
                     "YPos": -129,
                     "ZPos": -40,

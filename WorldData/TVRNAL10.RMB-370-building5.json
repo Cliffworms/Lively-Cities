@@ -37,12 +37,12 @@
                     "TextureArchive": 182,
                     "TextureRecord": 51,
                     "FactionID": 511,
-                    "Flags": 0
+                    "Flags": 6
                 },
                 {
                     "Position": 0,
                     "XPos": -988,
-                    "YPos": -6,
+                    "YPos": -7,
                     "ZPos": -995,
                     "TextureArchive": 184,
                     "TextureRecord": 27,
@@ -57,17 +57,17 @@
                     "TextureArchive": 184,
                     "TextureRecord": 17,
                     "FactionID": 584,
-                    "Flags": 0
+                    "Flags": 1
                 },
                 {
                     "Position": 0,
                     "XPos": -1019,
-                    "YPos": -4,
+                    "YPos": -5,
                     "ZPos": -1948,
                     "TextureArchive": 182,
                     "TextureRecord": 13,
                     "FactionID": 584,
-                    "Flags": 0
+                    "Flags": 5
                 }
             ],
             "BlockSection3Records": [],

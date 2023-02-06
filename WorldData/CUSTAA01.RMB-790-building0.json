@@ -30,24 +30,24 @@
             ],
             "BlockFlatObjectRecords": [
                 {
-                    "Position": 0,
+                    "Position": 3860,
                     "XPos": 620,
                     "YPos": -4,
                     "ZPos": 525,
                     "TextureArchive": 182,
                     "TextureRecord": 51,
                     "FactionID": 511,
-                    "Flags": 0
+                    "Flags": 6
                 },
                 {
-                    "Position": 0,
+                    "Position": 3861,
                     "XPos": 674,
                     "YPos": -7,
                     "ZPos": 496,
                     "TextureArchive": 182,
                     "TextureRecord": 53,
                     "FactionID": 514,
-                    "Flags": 0
+                    "Flags": 38
                 }
             ],
             "BlockSection3Records": [],
@@ -1295,7 +1295,7 @@
             "BlockSection3Records": [],
             "BlockPeopleRecords": [
                 {
-                    "Position": 0,
+                    "Position": 3856,
                     "XPos": -370,
                     "YPos": 0,
                     "ZPos": 177,
@@ -1305,7 +1305,7 @@
                     "Flags": 0
                 },
                 {
-                    "Position": 1,
+                    "Position": 3857,
                     "XPos": 50,
                     "YPos": 1,
                     "ZPos": 45,
@@ -1315,7 +1315,7 @@
                     "Flags": 0
                 },
                 {
-                    "Position": 2,
+                    "Position": 3858,
                     "XPos": 18,
                     "YPos": 0,
                     "ZPos": -309,
@@ -1325,9 +1325,9 @@
                     "Flags": 0
                 },
                 {
-                    "Position": 3,
+                    "Position": 3859,
                     "XPos": 105,
-                    "YPos": 0,
+                    "YPos": 1,
                     "ZPos": -171,
                     "TextureArchive": 184,
                     "TextureRecord": 29,

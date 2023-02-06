@@ -30,7 +30,7 @@
             ],
             "BlockFlatObjectRecords": [
                 {
-                    "Position": 0,
+                    "Position": 6537,
                     "XPos": -256,
                     "YPos": -2,
                     "ZPos": 643,
@@ -40,7 +40,7 @@
                     "Flags": 0
                 },
                 {
-                    "Position": 0,
+                    "Position": 6538,
                     "XPos": -235,
                     "YPos": -4,
                     "ZPos": 617,
@@ -373,7 +373,7 @@
             ],
             "BlockPeopleRecords": [
                 {
-                    "Position": 0,
+                    "Position": 6536,
                     "XPos": 88,
                     "YPos": 1,
                     "ZPos": -144,

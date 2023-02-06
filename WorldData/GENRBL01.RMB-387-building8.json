@@ -30,14 +30,14 @@
             ],
             "BlockFlatObjectRecords": [
                 {
-                    "Position": 0,
+                    "Position": 4246,
                     "XPos": -282,
                     "YPos": -2,
                     "ZPos": -25,
                     "TextureArchive": 182,
                     "TextureRecord": 36,
                     "FactionID": 511,
-                    "Flags": 0
+                    "Flags": 6
                 }
             ],
             "BlockSection3Records": [],
@@ -1230,7 +1230,7 @@
             "BlockSection3Records": [],
             "BlockPeopleRecords": [
                 {
-                    "Position": 0,
+                    "Position": 4240,
                     "XPos": -288,
                     "YPos": 0,
                     "ZPos": 328,
@@ -1240,7 +1240,7 @@
                     "Flags": 1
                 },
                 {
-                    "Position": 1,
+                    "Position": 4241,
                     "XPos": -56,
                     "YPos": 0,
                     "ZPos": -16,
@@ -1250,7 +1250,7 @@
                     "Flags": 33
                 },
                 {
-                    "Position": 2,
+                    "Position": 4242,
                     "XPos": 144,
                     "YPos": 1,
                     "ZPos": -256,
@@ -1260,7 +1260,7 @@
                     "Flags": 1
                 },
                 {
-                    "Position": 3,
+                    "Position": 4243,
                     "XPos": 104,
                     "YPos": -129,
                     "ZPos": -408,
@@ -1270,7 +1270,7 @@
                     "Flags": 1
                 },
                 {
-                    "Position": 4,
+                    "Position": 4244,
                     "XPos": -160,
                     "YPos": -129,
                     "ZPos": 216,
@@ -1280,7 +1280,7 @@
                     "Flags": 1
                 },
                 {
-                    "Position": 5,
+                    "Position": 4245,
                     "XPos": -24,
                     "YPos": -129,
                     "ZPos": 64,

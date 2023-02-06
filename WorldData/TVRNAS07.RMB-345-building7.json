@@ -41,44 +41,44 @@
             ],
             "BlockFlatObjectRecords": [
                 {
-                    "Position": 0,
+                    "Position": 5767,
                     "XPos": -625,
                     "YPos": -18,
                     "ZPos": 101,
                     "TextureArchive": 184,
                     "TextureRecord": 3,
                     "FactionID": 511,
-                    "Flags": 0
+                    "Flags": 6
                 },
                 {
-                    "Position": 0,
+                    "Position": 5768,
                     "XPos": -587,
                     "YPos": -8,
                     "ZPos": 100,
                     "TextureArchive": 205,
                     "TextureRecord": 8,
-                    "FactionID": 0,
-                    "Flags": 0
+                    "FactionID": 511,
+                    "Flags": 6
                 },
                 {
-                    "Position": 0,
+                    "Position": 5769,
                     "XPos": -800,
                     "YPos": -3,
                     "ZPos": 259,
                     "TextureArchive": 182,
                     "TextureRecord": 26,
                     "FactionID": 584,
-                    "Flags": 0
+                    "Flags": 38
                 },
                 {
-                    "Position": 0,
+                    "Position": 5770,
                     "XPos": -777,
                     "YPos": -3,
                     "ZPos": 292,
                     "TextureArchive": 184,
                     "TextureRecord": 26,
                     "FactionID": 584,
-                    "Flags": 0
+                    "Flags": 38
                 }
             ],
             "BlockSection3Records": [],
@@ -488,7 +488,7 @@
             ],
             "BlockPeopleRecords": [
                 {
-                    "Position": 0,
+                    "Position": 5766,
                     "XPos": 8,
                     "YPos": 0,
                     "ZPos": 240,

@@ -74,14 +74,14 @@
             ],
             "BlockFlatObjectRecords": [
                 {
-                    "Position": 0,
+                    "Position": 7621,
                     "XPos": 90,
                     "YPos": -2,
                     "ZPos": 13,
                     "TextureArchive": 182,
                     "TextureRecord": 44,
                     "FactionID": 584,
-                    "Flags": 0
+                    "Flags": 34
                 }
             ],
             "BlockSection3Records": [],
@@ -479,7 +479,7 @@
             "BlockSection3Records": [],
             "BlockPeopleRecords": [
                 {
-                    "Position": 0,
+                    "Position": 7620,
                     "XPos": -112,
                     "YPos": 0,
                     "ZPos": -64,

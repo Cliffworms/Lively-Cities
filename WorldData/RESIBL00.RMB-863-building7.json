@@ -30,24 +30,24 @@
             ],
             "BlockFlatObjectRecords": [
                 {
-                    "Position": 0,
+                    "Position": 4886,
                     "XPos": 461,
                     "YPos": -6,
                     "ZPos": 23,
                     "TextureArchive": 182,
                     "TextureRecord": 35,
                     "FactionID": 584,
-                    "Flags": 0
+                    "Flags": 5
                 },
                 {
-                    "Position": 0,
+                    "Position": 4887,
                     "XPos": 420,
-                    "YPos": -6,
+                    "YPos": -5,
                     "ZPos": 24,
                     "TextureArchive": 184,
                     "TextureRecord": 7,
                     "FactionID": 512,
-                    "Flags": 0
+                    "Flags": 37
                 }
             ],
             "BlockSection3Records": [],
@@ -1611,7 +1611,7 @@
             ],
             "BlockPeopleRecords": [
                 {
-                    "Position": 0,
+                    "Position": 4880,
                     "XPos": 24,
                     "YPos": 0,
                     "ZPos": -392,
@@ -1621,7 +1621,7 @@
                     "Flags": 1
                 },
                 {
-                    "Position": 1,
+                    "Position": 4881,
                     "XPos": -56,
                     "YPos": 0,
                     "ZPos": -32,
@@ -1631,7 +1631,7 @@
                     "Flags": 1
                 },
                 {
-                    "Position": 2,
+                    "Position": 4882,
                     "XPos": 24,
                     "YPos": -1,
                     "ZPos": 200,
@@ -1641,7 +1641,7 @@
                     "Flags": 33
                 },
                 {
-                    "Position": 3,
+                    "Position": 4883,
                     "XPos": -416,
                     "YPos": 0,
                     "ZPos": 336,
@@ -1651,7 +1651,7 @@
                     "Flags": 1
                 },
                 {
-                    "Position": 4,
+                    "Position": 4884,
                     "XPos": 136,
                     "YPos": -128,
                     "ZPos": -352,
@@ -1661,7 +1661,7 @@
                     "Flags": 1
                 },
                 {
-                    "Position": 5,
+                    "Position": 4885,
                     "XPos": -40,
                     "YPos": -129,
                     "ZPos": -40,

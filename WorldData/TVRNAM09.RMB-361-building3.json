@@ -30,44 +30,44 @@
             ],
             "BlockFlatObjectRecords": [
                 {
-                    "Position": 0,
+                    "Position": 1926,
                     "XPos": 650,
                     "YPos": -1,
                     "ZPos": -147,
                     "TextureArchive": 184,
                     "TextureRecord": 3,
                     "FactionID": 511,
-                    "Flags": 0
+                    "Flags": 6
                 },
                 {
-                    "Position": 0,
+                    "Position": 1927,
                     "XPos": 648,
-                    "YPos": -7,
+                    "YPos": -8,
                     "ZPos": -121,
                     "TextureArchive": 218,
                     "TextureRecord": 1,
-                    "FactionID": 0,
-                    "Flags": 0
+                    "FactionID": 511,
+                    "Flags": 6
                 },
                 {
-                    "Position": 0,
+                    "Position": 1928,
                     "XPos": 889,
                     "YPos": -7,
                     "ZPos": 98,
                     "TextureArchive": 182,
                     "TextureRecord": 11,
                     "FactionID": 584,
-                    "Flags": 0
+                    "Flags": 37
                 },
                 {
-                    "Position": 0,
+                    "Position": 1929,
                     "XPos": 890,
                     "YPos": -5,
                     "ZPos": 30,
                     "TextureArchive": 184,
                     "TextureRecord": 24,
                     "FactionID": 584,
-                    "Flags": 0
+                    "Flags": 5
                 }
             ],
             "BlockSection3Records": [],
@@ -267,7 +267,7 @@
             ],
             "BlockPeopleRecords": [
                 {
-                    "Position": 0,
+                    "Position": 1925,
                     "XPos": -72,
                     "YPos": 0,
                     "ZPos": 184,

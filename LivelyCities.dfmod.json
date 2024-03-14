@@ -1,8 +1,8 @@
 {
     "ModTitle": "Lively Cities",
-    "ModVersion": "1.2",
+    "ModVersion": "1.3",
     "ModAuthor": "Cliffworms",
-    "DFUnity_Version": "0.14.0",
+    "DFUnity_Version": "0.15.3",
     "ModDescription": "Populates the streets of Daggerfall's cities and settlements with static NPCs.",
     "GUID": "8445fd1c-7455-4c18-8850-70e1416c5c4f",
     "Files": [
